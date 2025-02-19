@@ -380,7 +380,9 @@
         "Newly uploaded attachments will be placed in Internal storage.": "Newly uploaded attachments will be placed in Internal storage.",
         "No external stores available": "No external stores available",
         "Preferred storage for this document": "Preferred storage for this document",
-        "Start transfer": "Start transfer"
+        "Start transfer": "Start transfer",
+        "External": "External",
+        "Internal": "Internal"
     },
     "DocumentUsage": {
         "Attachments Size": "Size of Attachments",
